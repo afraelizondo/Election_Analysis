@@ -43,6 +43,10 @@ After explaining this, we can move forward to present the analysis.
 * The winner of this election was Diana DeGette, with 272,892 votes and a 73.8% out of 100%.
 
 
+<img width="299" alt="election_analysis" src="https://user-images.githubusercontent.com/113856917/196604602-735be5fe-3b97-4f1b-a960-2d92839762f2.png">
+
+
+
 ## Election and Audit
 
 ### Summary 
@@ -53,7 +57,9 @@ The present script can be modified so it can be used in other elections:
 - Instead of county we could look for states, regions, countries.
 - Instead of candidate names, we could add a function so we know in which political party are the candidates. 
 
-Some of the advantages of reusing code are save time and resources, as well as reduce redundancy. Something worth to mention is that it can be used on any operating machine, system, or platform, so it makes it easier to run the code in any place of work where is necesary. 
+Talking about the greatest benefit of using this over the next elections is that the results can be reported and published in a faster and less complicated way. 
+
+In general, some of the advantages of reusing code are save time and resources, as well as reduce redundancy. Something worth to mention is that it can be used on any operating machine, system, or platform, so it makes it easier to run the code in any place of work where is necesary. 
 
 
 
